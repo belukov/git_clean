@@ -7,6 +7,11 @@ cd /path-to-repo/
 
 /path-to-this-proj/run.sh
 
+#or:
+git rm --cached <path-to-file>
+/path-to-this-proj/git_clean_file.sh <path-to-file>
+
+
 # links
 thanks for that guys:
 
