@@ -9,9 +9,9 @@ cd /path-to-repo/
 
 #or:
 
-git rm --cached <path-to-file>
+git rm --cached &lt;path-to-file&gt;
 
-/path-to-this-proj/git_clean_file.sh <path-to-file>
+/path-to-this-proj/git_clean_file.sh &lt;path-to-file&gt;
 
 
 # links
